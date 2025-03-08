@@ -1,4 +1,4 @@
-# 🧠 Face Recognition Folder Opener
+# 🧠 Face Recognition Project
 
 This Python project uses face recognition to open a specific folder when a predefined face is detected. The folder remains hidden, and once the correct face is recognized, the folder will be opened.
 
